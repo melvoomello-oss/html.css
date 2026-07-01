@@ -1,0 +1,18 @@
+body{
+    background-color: azure;
+    font-family:cursive
+    margin: 20px;
+}
+iframe,video{
+    border:3px solid gray;
+    border-radius:10px;
+    box-shadow:0 0 10px lightsalmon;
+    margin-bottom: 25px;
+}
+h3{
+    color: crimson;
+}
+video:{
+    border-color: blue;
+}
+video:hover
